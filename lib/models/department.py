@@ -1,4 +1,4 @@
-# lib/models/department.py
+## lib/models/department.py
 from models.__init__ import CURSOR, CONN
 
 
